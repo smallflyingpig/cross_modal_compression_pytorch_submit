@@ -46,7 +46,7 @@ python ./ImageText/end_to_end_test.py --cfg cfg/coco_eval.yml --data_dir CUB_PAT
 
 
 # project home page(coming soon)
-our results, data, pretrained model can be found on our [speaker-recognition-attacker]() project main page.
+(coming soon).
 
 # Acknowledgement
 Thanks to the valuable discussion with Junlong Gao. Besides, thanks to the open source of [COCO API](https://github.com/cocodataset/cocoapi), [AttnGAN](https://github.com/taoxugit/AttnGAN), [a-PyTorch-Tutorial-to-Image-Captioning](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning).
