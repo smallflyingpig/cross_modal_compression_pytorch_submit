@@ -5,7 +5,6 @@
 <img src="./fig/CNNRNN_with_Attn.jpg" width="95%" align="canter">
   </td></tr>
 </table>
-![framework](./fig/CNNRNN_with_Attn.jpg?raw=true)
 (coming soon)
 
 # Cite us
