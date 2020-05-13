@@ -9,7 +9,7 @@
 
 # Cite us
 If you use this code or part of it, please cite us!  
-*Jiguo Li, Xinfeng Zhang, Chuanming Jia, Jizheng Xu, Li Zhang, Yue Wang, Siwei Ma, Wen Gao, "Cross Modal Compression: towards human-comprehensiblesemantic compression"* [arxiv](coming soon)
+*anonymous, "Cross Modal Compression: towards human-comprehensiblesemantic compression"* [arxiv](coming soon)
 
 
 # Prerequisites
